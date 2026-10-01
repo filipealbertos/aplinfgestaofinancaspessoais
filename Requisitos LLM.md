@@ -17,7 +17,7 @@ Este documento reúne os requisitos do projeto, organizados por categoria para f
 ### Regras de escrita de código
 
 - Código em Python 3.14.
-- Notação de variáveis em snake_case.
+- Notação de variáveis em snake notation.
 
 ---
 
